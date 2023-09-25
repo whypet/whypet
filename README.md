@@ -15,7 +15,7 @@ Most of my repositories on here are private, I don't do much.
 Some repositories are currently private and won't go public soon as they're on hiatus, but here's a few that I'm working on or have finished:
 
 - [x] [Monoxide](https://github.com/whypet/Monoxide) (2021) &#x2192; Wiper Trojan horse that makes screen effects and sounds.
-- [Phos](https://github.com/whypet/Phos) (2023) &#x2192; Hobbyist operating system running on a minimal x86_64 megalithic kernel.
+- [Phos](https://github.com/whypet/Phos) (2023—present) &#x2192; Hobbyist operating system running on a minimal x86_64 megalithic kernel.
 
 ## 🌍 socials
 - youtube: [`@wipet`](https://www.youtube.com/@wipet)
