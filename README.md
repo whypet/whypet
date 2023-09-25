@@ -2,7 +2,7 @@
 
 ## 💻 about
 
-#### 16-year-old software developer from 🇫🇷
+**16-year-old software developer from 🇫🇷**
 
 - ⚙ Low- and high-level developer, fluent in C and C#. I still have lots to learn.
 - ✨ Interested in **3D graphics programming**, **Win32**, **OSDev**, **Embedded systems**, **Reverse engineering**, **SysAdmin/self-hosting**, **DevOps**.
