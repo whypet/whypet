@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi</h1>
 
-<img alt="my stats" align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=whypet&show_icons=true&theme=catppuccin_mocha&border_radius=0">
+<img alt="my stats" align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=whypet&show_icons=true&theme=catppuccin_mocha&border_radius=0">
 
 I like software development.
 
